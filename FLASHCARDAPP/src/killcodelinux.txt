@@ -1,0 +1,5 @@
+to find the process id : sudo lsof -i :5555
+to kill the server process : sudo kill -9 <PID>
+
+to find ip address on linux: ip addr show
+
